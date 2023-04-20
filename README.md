@@ -6,3 +6,4 @@ Please install python, pygame:
 
 List game:
   1. Blackjack
+  2. Snake game
